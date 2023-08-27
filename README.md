@@ -22,6 +22,9 @@ LLM_Huggingface_api = Your secret key
 ```
 ## Result and Output for the project
 
+![image](https://github.com/jo-2031/Multi-PDF---AI-Bot-using-LLM-and-OPENAI/assets/98604687/2feee72e-191b-49b7-bb2d-12a2314c8ba5)
+
+
 ![image](https://github.com/jo-2031/Multi-PDF---AI-Bot-using-LLM-and-OPENAI/assets/98604687/0758a309-8e1f-4e61-8496-5ae68d54db1a)
 
 
