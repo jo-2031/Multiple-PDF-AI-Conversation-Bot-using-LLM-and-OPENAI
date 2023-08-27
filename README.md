@@ -1,1 +1,3 @@
 # Multi-PDF---AI-Bot-using-LLM-and-OPENAI
+
+Developed an AI Chatbot utilizing Langchain and a Language Model (LLM) to enable users to upload and converse about multiple PDFs. The chatbot processes discussions through a Streamlit interface, extracting information from uploaded PDFs. Leveraged both OpenAI API with cost-effective keys and Hugging Face for free usage to enhance responses. The bot engages users in dynamic conversations, offering insights sourced from the uploaded PDF content. This Python-based project exemplifies the seamless integration of advanced NLP technologies and APIs. It showcases the synergy of Langchain, LLM, OpenAI, Hugging Face, and Streamlit for creating an intelligent and interactive AI Chatbot experience
