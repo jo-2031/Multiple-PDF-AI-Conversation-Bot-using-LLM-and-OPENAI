@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I created an AI Chatbot that uses Langchain and a Language Model (LLM). It lets users upload PDFs and talk about them. The chatbot works on Streamlit and can understand what's in the uploaded PDFs. I used the OpenAI API for cost-effective features and Hugging Face for free uses to make the chatbot's responses better. The chatbot has interesting conversations with users and shares information from the PDFs. This project is written in Python and shows how advanced language technologies and APIs can work together smoothly. It's shows how Langchain, LLM, OpenAI, Hugging Face, and Streamlit can make a smart and interactive AI Chatbot.
+I created an AI Chatbot that uses Langchain and a Language Model (LLM). It lets users upload PDFs and talk about them. The chatbot works on Streamlit and can understand what's in the uploaded PDFs. I used the OpenAI API for cost-effective features and Hugging Face for free uses to make the chatbot's responses better. The chatbot has interesting conversations with users and shares information from the PDFs. This project is written in Python and shows how advanced language technologies and APIs can work together smoothly. It shows how Langchain, LLM, OpenAI, Hugging Face, and Streamlit can make a smart and interactive AI Chatbot.
 
 ## Dependencies and Installation
 
@@ -20,7 +20,10 @@ pip install -r requirements.txt
 LLM_OPENAI_API=your_secrit_api_key
 LLM_Huggingface_api = Your secret key
 ```
-Result and Output for the project
+## Result and Output for the project
+
+![image](https://github.com/jo-2031/Multi-PDF---AI-Bot-using-LLM-and-OPENAI/assets/98604687/ba090818-7058-4ab7-9b74-59b11c7d0646)
+
 
 
 
