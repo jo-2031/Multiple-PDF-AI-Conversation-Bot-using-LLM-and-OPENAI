@@ -1,4 +1,4 @@
-# Multi-PDF---AI-Bot-using-LLM-and-OPENAI
+# Multiple PDF AI-Cov-Bot-using-LLM-and-OPENAI
 
 ## Introduction
 
